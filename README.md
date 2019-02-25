@@ -1,2 +1,1 @@
-All code in this repository is associated with the course "Modern React with Redux [2019]" taught by Stephen Grider.
-Each directory include a seperate lesson or project created during the taking of this course.
+All code in this repository is associated with the course "Modern React with Redux [2019]" taught by Stephen Grider and post on Udemy. Each directory include a seperate lesson or project created during the taking of this course.
